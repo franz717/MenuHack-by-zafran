@@ -7,7 +7,7 @@ local Window = OrionLib:MakeWindow({
     HidePremium = false,
     SaveConfig = false,
     IntroEnabled = true,
-    IntroText = "Memuat Menu Hack...",
+    IntroText = "Azzam Imoet Kiyoet",
     Icon = "rbxassetid://4483345998",
     IntroIcon = "rbxassetid://4483345998"
 })
